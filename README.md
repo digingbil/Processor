@@ -3,12 +3,12 @@ A handy class for managing background processes in PHP
 
 Requirements:
 -------------
-It is based on the awesome Background Porcess script created by "cocur": https://github.com/cocur/background-process
+It is based on the awesome **Background Process** script created by "cocur": https://github.com/cocur/background-process
 
 Ho to use it:
 -------------
 
-1. Run composer install to install the required dependency
+1. Run `composer install` to install the required dependency
 
 2. You can simply include the Processor.php file in your scripts. Please check the Test.php file on ways to use it.
     
