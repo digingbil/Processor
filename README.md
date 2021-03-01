@@ -10,13 +10,13 @@ Ho to use it:
 
 1. Run `composer install` to install the required dependency
 
-2. You can simply include the Processor.php file in your scripts. Please check the Test.php file on ways to use it.
+2. You can simply include the `Processor.php` file in your scripts. Please check the Test.php file on ways to use it.
     
-3. If you want to run the supplied Test.php file just run it in your browser: 
+3. If you want to run the supplied `Test.php` file just run it in your browser: 
     
     https://mysite.com/Processor/Test.php
     
-4. Play around with the options. In the package there is also an example of a long running script: LongRunningPHPScript.php that you can use it for testing. It will simply run for 1 minute and then finish.
+4. Play around with the options. In the package there is also an example of a long running script: `LongRunningPHPScript.php` that you can use it for testing. It will simply run for 1 minute and then finish.
 
 5. Enjoy.
 
